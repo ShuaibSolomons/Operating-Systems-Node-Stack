@@ -1,0 +1,6 @@
+push A
+romve A
+printList
+head
+TaiL
+length()

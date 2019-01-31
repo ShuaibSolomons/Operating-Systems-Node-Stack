@@ -1,0 +1,10 @@
+push C
+PuSh B
+Push A
+PrintList
+remove B
+Remove A
+PrintList
+Push S
+PrintList
+printList

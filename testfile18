@@ -1,0 +1,6 @@
+Push A
+Push B
+Push C
+PrintList
+InsertBefore D A
+PrintList
